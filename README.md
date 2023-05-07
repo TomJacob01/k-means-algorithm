@@ -7,7 +7,3 @@ The C implementation of k-means is written in ANSI C90 and can be compiled on an
 # Python Implementation
 
 The Python implementation of k-means is written in Python3. It takes a CSV file as input and outputs the final cluster centroids and assignments to a CSV file. The program uses the Lloyd's algorithm for k-means clustering and has been optimized for readability and ease of use.
-
-Both implementations have been thoroughly tested and validated against standard datasets, such as the Iris dataset and the Wine dataset. 
-
-Please feel free to use, modify, and distribute the code according to your needs. Any feedback or suggestions are greatly appreciated!
